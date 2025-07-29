@@ -4,7 +4,7 @@ body {
     padding: 0;
     background: whitesmoke;
     color: rgb(2, 2, 2);
-    background-image: url(Assets/antikera.jpg);
+    background-image: url(antikera.jpg);
 }
 
 header {
@@ -17,7 +17,7 @@ header {
     max-height: 300px;
     margin: auto;
     outline-style: 1px;
-    background-image: url(Assets/curvasud.webp);
+    background-image: url(curvasud.webp);
 }
 
 section {
@@ -32,10 +32,11 @@ section {
 
 footer {
     text-align: center;
-    background: rgb(22, 113, 239);
+    background: rgba(105, 106, 107, 0.279);
     color: white;
     padding: 0.5rem;
     margin-top: 1rem;
+    
     
 }
 
