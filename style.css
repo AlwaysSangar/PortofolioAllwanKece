@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: whitesmoke;
+    color: rgb(2, 2, 2);
+}
+
+header {
+    background: rgb(18, 101, 244);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+section {
+    padding: 1rem;
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    margin-top: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 3px 5px rgb(68, 66, 66);
+}
+
+footer {
+    text-align: center;
+    background: rgb(22, 113, 239);
+    color: white;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    
+}
+
+button {
+    background: rgb(17, 85, 231);
+    color: white;
+    border: none;
+    padding: 0.6rem 1 rem;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(65, 143, 231);
+}
